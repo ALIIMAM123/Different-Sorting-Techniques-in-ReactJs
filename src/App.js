@@ -208,7 +208,7 @@ console.log(timerID,'timerIdtimerId')
           </thead>
           <tbody>
            
-          {filteredProduct.length==0 
+          {filteredProduct.length==0  && loading
             
           ? 
           <tr>
