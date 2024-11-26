@@ -24,8 +24,8 @@ const DummyData = [
     id: 4,
     name: 'Headphones',
     category: 'Accessories',
-    price: 100,
-    rating: 4.1,
+    price: 105,
+    rating: 3.6,
   },
   {
     id: 5,
